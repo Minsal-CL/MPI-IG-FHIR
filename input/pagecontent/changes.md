@@ -1,10 +1,15 @@
 ### Versión 0.4.1
 
+Se crea la estructura de dato de NIDAddress necesario para considerar lo mínimo requerido para la dirección del paciente.
+
+### Versión 0.4.1
+
 Perfil [MINSAL Acompañante](StructureDefinition-MINSALAcompanante.html):
   - Se agrega el segundo apellido en el name de manera opcional
   - Se deja opcional la dirección y el medio de comunicación pasan a ser oligatorio
   - Y el Address pasa a **CLAddress**
-  - Se cambia el computableName a **Minsal-NucleoInteroperabilidadDatos**
+
+Se cambia el computableName a **Minsal-NucleoInteroperabilidadDatos**
 
 ### Versión 0.4.0
 
