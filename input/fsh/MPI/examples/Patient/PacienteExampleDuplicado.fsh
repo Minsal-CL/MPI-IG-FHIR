@@ -71,7 +71,7 @@ Usage: #inline
 *  valueString = "Muñoz"
 
 Instance: ClAddressPac2
-InstanceOf: ClAddress
+InstanceOf: NIDAddress
 Usage: #inline
 
 * extension[Geolocalizacion] = geolocalizacionPac1
@@ -86,7 +86,7 @@ Usage: #inline
 * period.end = "2021-04-12"
 
 Instance: ClAddressNueva
-InstanceOf: ClAddress
+InstanceOf: NIDAddress
 Usage: #inline
 
 * extension[SituacionCalle] = SituacionCallePac1

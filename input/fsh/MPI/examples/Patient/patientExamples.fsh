@@ -122,7 +122,7 @@ Usage: #inline
 * valueBoolean = false 
 
 Instance: ClAddressPac1
-InstanceOf: ClAddress
+InstanceOf: NIDAddress
 Usage: #inline
 
 * extension[Geolocalizacion] = geolocalizacionPac1
