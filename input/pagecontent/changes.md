@@ -1,3 +1,11 @@
+### Versión 0.4.1
+
+Perfil [MINSAL Acompañante](StructureDefinition-MINSALAcompanante.html):
+  - Se agrega el segundo apellido en el name de manera opcional
+  - Se deja opcional la dirección y el medio de comunicación pasan a ser oligatorio
+  - Y el Address pasa a **CLAddress**
+  - Se cambia el computableName a **Minsal-NucleoInteroperabilidadDatos**
+
 ### Versión 0.4.0
 
 Se crean nuevos perfiles para cubrir del Directorio de proveedores de atención médica o HPD(Healthcare Provider Directory) por sus siglas en inglés.

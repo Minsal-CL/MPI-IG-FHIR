@@ -3,13 +3,13 @@
 # │  used properties are included. For a list of all supported properties and their functions,     │
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
-id: hl7.fhir.cl.minsal.nid-mpi-hpd
+id: hl7.fhir.cl.minsal.nid
 canonical: https://interoperabilidad.minsal.cl/fhir/ig/nid
-name: Nid_Mpi_Hpd_Minsal 
+name: Minsal-NucleoInteroperabilidadDatos
 title: Núcleo de Interoperabilidad de Datos (NID) - MINSAL
 description: Núcleo de Interoperabilidad de Datos del Ministerio de Salud de Chile
 status: draft # draft | active | retired | unknown
-version: 0.4.0
+version: 0.4.1
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2023+
 releaseLabel: draft  # ci-build | draft | qa-preview | ballot | trial-use | release | update | normative+trial-use
@@ -27,7 +27,7 @@ dependencies:
   hl7.fhir.cl.clcore: 
     id: clcore
     uri: https://hl7chile.cl/fhir/ig/clcore/ImplementationGuide/hl7.fhir.cl.clcore
-    version: 1.9.1
+    version: 1.9.2
   #hl7.fhir.cl.clcore: dev
   ihe.iti.pixm: 
     id: IHE_PIXm
