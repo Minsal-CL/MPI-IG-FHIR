@@ -1,16 +1,11 @@
 {
     "package-id": "hl7.fhir.cl.minsal.nid",
-    "version": "0.4.1",
+    "version": "0.4.6",
     "desc": "Versión de desarrollo",
-    "path": "https://interoperabilidad.minsal.cl/fhir/ig/nid/0.4.1",
+    "path": "https://interoperabilidad.minsal.cl/fhir/ig/nid/0.4.6",
     "mode": "working",
     "changes": "changes.html",
     "status": "draft",
     "sequence": "STU1",
-    "first": true,
-    "category": "National Base",
-    "title": "Núcleo de Interoperabilidad de Datos (NID) - MINSAL",
-    "introduction": "Núcleo de Interoperabilidad de Datos del Ministerio de Salud de Chile",
-    "ci-build": "https://build.fhir.org/ig/Minsal-CL/NID",
     "fhirversion": "4.0.1"
 }
