@@ -3,6 +3,7 @@
 Se crea la estructura de dato de NIDAddress necesario para considerar lo mínimo requerido para la dirección del paciente.
 Corrección de url de la guía de implementación
 
+Se eliminan los globals
 
 ### Versión 0.4.1
 

@@ -136,24 +136,24 @@ menu:
 # of profile URLs. If a value is an id or name, SUSHI will replace
 # it with the correct canonical when generating the IG JSON.
 #
-global:
-  Coverage:
-    - MINSALCobertura
-  Group:
-    - MINSALAgrupacionPorMarcas
-  Patient: 
-    - MINSALPaciente
-  Practitioner:
-    - MINSALPractitionerAdministrativo
-    - MINSALPrestadorProfesional
-  Organization:
-    - MINSALPrestadorOrganizacional
-  Observation:
-    - MINSALSituacionDiscapacidad
-    - MINSALNivelEducacional
-    - MINSALOcupacion
-  RelatedPerson:
-    - MINSALAcompanante
+# global:
+#   Coverage:
+#     - MINSALCobertura
+#   Group:
+#     - MINSALAgrupacionPorMarcas
+#   Patient: 
+#     - MINSALPaciente
+#   Practitioner:
+#     - MINSALPractitionerAdministrativo
+#     - MINSALPrestadorProfesional
+#   Organization:
+#     - MINSALPrestadorOrganizacional
+#   Observation:
+#     - MINSALSituacionDiscapacidad
+#     - MINSALNivelEducacional
+#     - MINSALOcupacion
+#   RelatedPerson:
+#     - MINSALAcompanante
 
 #
 #

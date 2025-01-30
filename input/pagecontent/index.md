@@ -72,7 +72,7 @@ Además, el HPD permite optimizar la gestión administrativa, ya que simplifica 
 
 * Promover la interoperabilidad que permita una integración fluida entre el MPI y el HPD, optimizando la gestión de la información sobre pacientes y prestadores en todo el territorio nacional.
 
-### Perfiles del Núcleo de Interoperabilidad de Datos 
+### Perfiles Globales 
 
 {% include globals-table.xhtml %}
 
